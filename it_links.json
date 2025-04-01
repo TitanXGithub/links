@@ -1,0 +1,266 @@
+[
+    {
+      "category": "웹 개발",
+      "tags": ["인증", "토큰"],
+      "description": "JWT 토큰 디버거 및 생성기",
+      "site_name": "JWT.io",
+      "url": "http://Jwt.io",
+      "remarks": ""
+    },
+    {
+      "category": "AI/ML",
+      "tags": ["LLM", "파이썬"],
+      "description": "LangChain 파이썬 API 문서",
+      "site_name": "랭체인 공식문서",
+      "url": "https://api.python.langchain.com/",
+      "remarks": ""
+    },
+    {
+      "category": "AI/ML",
+      "tags": ["LLM", "인덱싱"],
+      "description": "LlamaIndex 쿼리 파이프라인 소개",
+      "site_name": "라마인덱스",
+      "url": "https://www.llamaindex.ai/blog/introducing-query-pipelines-025dc2bb0537",
+      "remarks": ""
+    },
+    {
+      "category": "교육",
+      "tags": ["온라인 강의"],
+      "description": "다양한 주제의 온라인 강의 플랫폼",
+      "site_name": "유데미",
+      "url": "https://www.udemy.com/",
+      "remarks": ""
+    },
+    {
+      "category": "데이터베이스",
+      "tags": ["벡터 데이터베이스"],
+      "description": "벡터 데이터 저장 및 검색 서비스",
+      "site_name": "파인콘",
+      "url": "https://app.pinecone.io/",
+      "remarks": ""
+    },
+    {
+      "category": "경제",
+      "tags": ["경제지표", "부동산"],
+      "description": "부동산 및 경제 지표 분석 서비스",
+      "site_name": "인덱스얼고",
+      "url": "https://www.indexergo.com/",
+      "remarks": ""
+    },
+    {
+      "category": "프로그래밍",
+      "tags": ["타입스크립트"],
+      "description": "타입스크립트 공식 문서",
+      "site_name": "타입스크립트 핸드북",
+      "url": "https://www.typescriptlang.org/ko/docs/handbook/typescript-from-scratch.html",
+      "remarks": ""
+    },
+    {
+      "category": "프론트엔드",
+      "tags": ["CSS", "테일윈드"],
+      "description": "테일윈드 CSS 온라인 에디터",
+      "site_name": "테일윈드 플레이그라운드",
+      "url": "https://play.tailwindcss.com/",
+      "remarks": ""
+    },
+    {
+      "category": "툴",
+      "tags": ["데이터 시각화"],
+      "description": "텍스트 데이터 시각화 도구",
+      "site_name": "워드 클라우드",
+      "url": "https://www.wordclouds.com/",
+      "remarks": ""
+    },
+    {
+      "category": "프로그래밍",
+      "tags": ["파이썬", "코딩 스타일"],
+      "description": "파이썬 클린 코드 작성 가이드",
+      "site_name": "파이썬 클린코드",
+      "url": "https://wikidocs.net/168364",
+      "remarks": ""
+    },
+    {
+      "category": "경제",
+      "tags": ["경제지표", "부동산"],
+      "description": "한국 경제 관련 통계 데이터",
+      "site_name": "KDI 경제정보시스템",
+      "url": "https://epts.kdi.re.kr/",
+      "remarks": ""
+    },
+    {
+      "category": "개발자 포럼",
+      "tags": ["커뮤니티", "Q&A"],
+      "description": "",
+      "site_name": "OKKY",
+      "url": "https://okky.kr/",
+      "remarks": "활발한 커뮤니티, 사이드 프로젝트 팀원 모집에 유용"
+    },
+    {
+      "category": "유튜브 채널",
+      "tags": ["안드로이드", "개발"],
+      "description": "안드로이드 개발자 유튜브 채널",
+      "site_name": "DroidKnights",
+      "url": "https://www.youtube.com/c/DroidKnights/videos",
+      "remarks": "안드로이드 개발 관련 기술적인 컨텐츠가 많음"
+    },
+    {
+      "category": "블로그",
+      "tags": ["안드로이드", "오픈소스"],
+      "description": "안드로이드 유용한 오픈소스 사이트 모음",
+      "site_name": "안드로이드 유용한 오픈소스 사이트 모음",
+      "url": "https://taewooblog.tistory.com/103",
+      "remarks": "안드로이드 개발에 유용한 오픈소스 정보"
+    },
+    {
+      "category": "GitHub",
+      "tags": ["개발", "참조"],
+      "description": "개발자를 위한 다양한 치팅시트 모음",
+      "site_name": "개발자 치팅시트",
+      "url": "https://github.com/rstacruz/cheatsheets",
+      "remarks": "IDE, CLI 명령어, DB, 프로그래밍 언어 등 다양한 분야의 치팅시트 제공"
+    },
+    {
+      "category": "GitHub",
+      "tags": ["개발", "학습"],
+      "description": "프로그래밍 언어 및 개발 관련 컨텐츠 모음",
+      "site_name": "고퀼리티 개발 컨텐츠",
+      "url": "https://github.com/Integerous/goQuality-dev-contents",
+      "remarks": "프로그래밍 언어 등이 잘 정리되어 있으며, 오픈채팅방 정보도 제공"
+    },
+    {
+      "category": "GitHub",
+      "tags": ["개발", "이론"],
+      "description": "개발자에게 유용한 법칙, 이론, 원칙, 패턴 모음",
+      "site_name": "개발자에 유용한 법칙, 이론, 원칙, 패턴",
+      "url": "https://github.com/codeanddonuts/hacker-laws-kr",
+      "remarks": "개발자를 위한 다양한 법칙과 이론 정리"
+    },
+    {
+      "category": "디스코드",
+      "tags": ["커뮤니티", "채팅"],
+      "description": "개발 관련 디스코드 서버 목록",
+      "site_name": "개발 관련 디스코드",
+      "url": "https://disboard.org/ko/servers/tag/%EA%B0%9C%EB%B0%9C",
+      "remarks": "다양한 개발 커뮤니티 디스코드 서버"
+    },
+    {
+      "category": "리소스",
+      "tags": ["애니메이션", "디자인"],
+      "description": "무료 애니메이션 제공 사이트",
+      "site_name": "Lottie",
+      "url": "https://lottiefiles.com/",
+      "remarks": "무료로 사용할 수 있는 다양한 애니메이션 제공"
+    },
+    {
+      "category": "블로그",
+      "tags": ["프로젝트", "팀빌딩"],
+      "description": "사이드 프로젝트 팀원 모집 플랫폼 모음",
+      "site_name": "사이드 프로젝트 팀원 구할 수 있는 사이트 모음",
+      "url": "https://ahnslab.com/sideproject-platform-list/",
+      "remarks": "다양한 사이드 프로젝트 팀원 모집 사이트 목록"
+    },
+    {
+      "category": "GitHub",
+      "tags": ["오픈소스", "교육"],
+      "description": "우아한테크코스의 오픈 소스 프로젝트",
+      "site_name": "우테코 오픈 소스 프로젝트",
+      "url": "https://github.com/woowacourse-teams",
+      "remarks": "우아한테크코스 팀들의 오픈 소스 GitHub 저장소"
+    },
+    {
+      "category": "도구",
+      "tags": ["코드", "이미지"],
+      "description": "코드를 아름다운 이미지로 변환하는 서비스",
+      "site_name": "Ray.so",
+      "url": "https://ray.so/",
+      "remarks": "코드 공유나 프레젠테이션용 이미지 생성에 유용"
+    },
+    {
+      "category": "교육",
+      "tags": ["학습", "로드맵"],
+      "description": "개발자 학습 로드맵 제공",
+      "site_name": "Roadmap.sh",
+      "url": "https://roadmap.sh/",
+      "remarks": "다양한 개발 분야 학습 안내 로드맵 제공"
+    },
+    {
+      "category": "도구",
+      "tags": ["코드", "프론트엔드"],
+      "description": "브라우저에서 코드 작성 및 결과 확인 가능한 도구",
+      "site_name": "Codepen.io",
+      "url": "https://codepen.io/",
+      "remarks": "프론트엔드 코드 테스트 및 공유에 유용"
+    },
+    {
+      "category": "리소스",
+      "tags": ["아이콘", "디자인"],
+      "description": "무료 SVG 아이콘 라이브러리",
+      "site_name": "Iconstore.co",
+      "url": "https://iconstore.co/",
+      "remarks": "프로젝트에 사용할 수 있는 무료 아이콘 모음"
+    },
+    {
+      "category": "도구",
+      "tags": ["마크다운", "문서화"],
+      "description": "마크다운 에디터와 템플릿을 사용하여 ReadMe 파일 생성 도구",
+      "site_name": "Readme.so",
+      "url": "https://readme.so/",
+      "remarks": "깃허브 프로젝트 문서화에 유용"
+    },
+    {
+      "category": "리소스",
+      "tags": ["이미지", "더미데이터"],
+      "description": "더미 이미지 제공 사이트",
+      "site_name": "Lorem Picsum",
+      "url": "https://picsum.photos/",
+      "remarks": "개발 중 필요한 임시 이미지 활용에 편리"
+    },
+    {
+      "category": "도구",
+      "tags": ["문서화", "협업"],
+      "description": "제품 문서화를 위한 플랫폼",
+      "site_name": "GitBook",
+      "url": "https://www.gitbook.com/",
+      "remarks": "팀 협업용 문서 플랫폼"
+    },
+    {
+      "category": "도구",
+      "tags": ["UI/UX", "디자인"],
+      "description": "UI 설계를 위한 협업 웹 애플리케이션",
+      "site_name": "Figma",
+      "url": "https://www.figma.com/",
+      "remarks": "팀 협업이 용이한 UI 디자인 도구"
+    },
+    {
+      "category": "커뮤니티",
+      "tags": ["디자인", "포트폴리오"],
+      "description": "디자이너들의 작업물을 볼 수 있는 사이트",
+      "site_name": "Dribbble",
+      "url": "https://dribbble.com/",
+      "remarks": "디자이너의 GitHub라고 불릴 정도로 유명한 디자인 공유 사이트"
+    },
+    {
+      "category": "도구",
+      "tags": ["목업", "UI"],
+      "description": "직관적인 목업 도구 (유료)",
+      "site_name": "Balsamiq mockups",
+      "url": "https://balsamiq.com/",
+      "remarks": "사용하기 쉽고 직관적인 유료 목업 도구"
+    },
+    {
+      "category": "도구",
+      "tags": ["목업", "UI"],
+      "description": "무료 목업 도구",
+      "site_name": "Pencil mockup",
+      "url": "https://pencil.evolus.vn/",
+      "remarks": "오픈소스 기반의 무료 목업 도구"
+    },
+    {
+      "category": "프로그래밍",
+      "tags": ["파이썬", "성능"],
+      "description": "파이썬 성능 최적화 가이드",
+      "site_name": "Python fast",
+      "url": "https://pythonspeed.com/articles/fixing-performance-with-hardware/",
+      "remarks": "파이썬 성능 향상 팁 제공"
+    }
+  ]
