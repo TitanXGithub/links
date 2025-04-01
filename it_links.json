@@ -8,6 +8,14 @@
       "remarks": ""
     },
     {
+      "category": "AI",
+      "tags": ["mcp", "ai","cursor","claude],
+      "description": "mcp 라이브러리 사이트",
+      "site_name": "smithery",
+      "url": "https://smithery.ai/",
+      "remarks": ""
+    },
+    {
       "category": "AI/ML",
       "tags": ["LLM", "파이썬"],
       "description": "LangChain 파이썬 API 문서",
